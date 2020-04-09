@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+    color: lightslategrey;
+}
+#first {
+    background-color: teal;
+    height: 400px;
+    width: 700px;
+    margin: 50px;
+    padding: 30px;
+    font-family: dosis, sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+}
+#top{
+    font-size: 40px;
+}
+.name{
+    font-weight: bold;
+}
